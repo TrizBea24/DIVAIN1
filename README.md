@@ -1,2 +1,2 @@
-# DIVAIN1
-Repository for the technical test of DIVAIN team web development job process.
+# Fibonacci serie
+Pick a number and find its Fibonacci serie
